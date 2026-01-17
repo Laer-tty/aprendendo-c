@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1721749444 source:c:\users\letty\onedrive\documentos\- arquivos c\projeto - arvore genealogica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvorepersistencia.h"
+
+1721749276 c:\users\letty\onedrive\documentos\- arquivos c\projeto - arvore genealogica\arvore_persistencia.h
+
+1721749249 source:c:\users\letty\onedrive\documentos\- arquivos c\projeto - arvore genealogica\arvore_persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore_persistencia.h"
+
+1768688337 source:c:\users\letty\onedrive\documentos\- arquivos c\projeto - arvore genealogica\arvorepersistencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvorepersistencia.h"
+
+1721750995 c:\users\letty\onedrive\documentos\- arquivos c\projeto - arvore genealogica\arvorepersistencia.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1768691556 source:c:\users\letty\onedrive\documentos\- arquivos c\projeto candidatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad_lst2.h"
+	"persistencia.h"
+
+1713806359 c:\users\letty\onedrive\documentos\- arquivos c\projeto candidatos\tad_lst2.h
+
+1714930363 c:\users\letty\onedrive\documentos\- arquivos c\projeto candidatos\persistencia.h
+
